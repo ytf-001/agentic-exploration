@@ -1,0 +1,2 @@
+npx ts-node permitAnalysisCreate.ts 39.54251986272744 -103.36220591271385
+npx tsx permitanalysisquery.ts 39.54251986272744 -103.36220591271385
